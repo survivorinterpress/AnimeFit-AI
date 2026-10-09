@@ -1,0 +1,7 @@
+{
+  "name": "AnimeFit AI",
+  "description": "Anime-inspired fitness and AI calorie tracking RPG app with camera meal recognition, anime coaches, avatar evolution, and fitness quests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
